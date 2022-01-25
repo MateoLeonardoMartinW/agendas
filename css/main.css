@@ -1,0 +1,70 @@
+.carousel-item {
+  height: 100vh;
+  min-height: 50px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.card-columns .card {
+  display: inline-block;
+  width: 100%;
+}
+.card-img-top {
+  width: 100%;
+  height: 200px !important;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+}
+.tituloindex{text-align: center; font-family:cursive;font-weight: bold;text-shadow: 7px 4px 5px rgb(218, 218, 218);}}
+.redes{text-align:;font-family: cursive;}
+.icon{float: left;}
+.ubicacion{font-family:cursive;font-weight: bold;font-size: 50px; color: ivory;}
+.titulocontacto{text-align: center; font-family:cursive;font-weight: bold;}
+.nav-link{font-family:cursive;font-weight: bold;font-size: 23px;}
+.navbar-brand{font-family:cursive;font-weight: bold;font-size: 40px;}
+.card-title{font-family:cursive;font-weight: bold;font-size: 30px;}
+.card-text{font-family:cursive;font-size: 20px;}
+.titulonuestrasagendas{font-family: cursive;font-size: 35px;}
+.subtitulonuestrasagendas{font-family: cursive;font-size: 30px;font-weight: bold;text-align: center;}
+.txtnuestrasagendas{font-family: cursive;font-size: 25px; text-align: center;}
+.basico{font-family: cursive;color: ivory;}
+.basicosubtitulo{font-family:cursive;font-weight: bold;font-size: 30px;}
+.basicotexto{font-family:cursive;font-weight: bold;font-size: 20px;}
+p{text-shadow:coral;}
+.principal{font-family:cursive;font-size: 30px;color: rgb(0, 0, 0);display: table-cell;
+  vertical-align: middle;}
+.agendamenuprin{float: right;}
+.bloque {text-align: center;
+  height: 50%; 
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.849);
+  display: inline-table;
+}
+.novedades{font-family:cursive;font-weight: bold;font-size: 30px;text-align: center;}
+.grilla{font-family:cursive;font-weight: bold;font-size: 20px;}
+.final{
+  height: auto; 
+  width: auto;
+  background-color: rgb(37, 37, 37);
+  display: inline-table;
+}
+.bloque4{
+  height: 100%; 
+  width: 100%;
+  background-color: rgba(37, 37, 37, 0.189);
+  display: inline-table;
+}
+.bloque5{
+  height: 100%; 
+  width: 100%;
+  background-color: rgba(37, 37, 37, 0.888);
+  display: inline-table;
+}
+.bloque6{
+  height: 100%; 
+  width: 100%;
+  background-color: rgba(37, 37, 37, 0.288);
+  display: inline-table;
+}
